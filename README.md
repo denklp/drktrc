@@ -1,4 +1,4 @@
-# drktrc
+# drktrc 
 
 ## 1. Assumptions:
 We are using Cloud. As a reference, GCP will be used, but in general - logic would be the same for AWS or similar.
